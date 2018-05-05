@@ -1,0 +1,68 @@
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\bin\Debug\Private_Clinic.exe.config
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\bin\Debug\Private_Clinic.exe
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\bin\Debug\Private_Clinic.pdb
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\bin\Debug\MetroFramework.Design.dll
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\bin\Debug\MetroFramework.dll
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Properties.Resources.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.csproj.GenerateResource.Cache
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.exe
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.pdb
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Form1.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Form2.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Form3.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.csprojResolveAssemblyReference.cache
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Form10.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Form11.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Form4.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Form5.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Form6.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Form7.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Form8.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic\Private_Clinic\obj\Debug\Private_Clinic.Form9.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\Private_Clinic.exe.config
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.exe
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.pdb
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\Clinic.mdf
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\Clinic_log.ldf
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\Private_Clinic.exe
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\Private_Clinic.pdb
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\MetroFramework.Design.dll
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\MetroFramework.dll
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form1.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form2.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form3.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form4.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form5.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form6.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form7.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form8.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form9.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Properties.Resources.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.csproj.GenerateResource.Cache
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form10.resources
+C:\Users\Priom\Downloads\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.csprojResolveAssemblyReference.cache
+E:\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\Private_Clinic.exe.config
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.exe
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.pdb
+E:\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\Clinic.mdf
+E:\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\Clinic_log.ldf
+E:\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\Private_Clinic.exe
+E:\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\Private_Clinic.pdb
+E:\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\MetroFramework.Design.dll
+E:\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\MetroFramework.dll
+E:\c#\Private_Clinic - Copy\Private_Clinic\bin\Debug\MetroFramework.Fonts.dll
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.csprojResolveAssemblyReference.cache
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form1.resources
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form10.resources
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form2.resources
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form3.resources
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form4.resources
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form5.resources
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form6.resources
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form7.resources
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form8.resources
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Form9.resources
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.Properties.Resources.resources
+E:\c#\Private_Clinic - Copy\Private_Clinic\obj\Debug\Private_Clinic.csproj.GenerateResource.Cache
